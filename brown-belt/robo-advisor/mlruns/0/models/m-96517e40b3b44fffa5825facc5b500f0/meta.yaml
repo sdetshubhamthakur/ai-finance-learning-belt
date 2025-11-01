@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/shuthakur/Desktop/Learning/Finance/robo-advisor/mlruns/0/models/m-96517e40b3b44fffa5825facc5b500f0/artifacts
+creation_timestamp: 1761894129460
+experiment_id: '0'
+last_updated_timestamp: 1761894138554
+model_id: m-96517e40b3b44fffa5825facc5b500f0
+model_type: null
+name: robo_model
+source_run_id: 4a40aa2a47a8490283a9b3e8f68f3429
+status: 2
+status_message: null
