@@ -25,9 +25,9 @@ Progress is tracked in a dedicated **GitHub Projects board**, offering a clear s
 |-------------|-----------------------------------|-----------------|
 | White Belt  | Stock Data Explorer               | ✅ Complete     | 
 | Yellow Belt | Credit Scoring Classifier         | ✅ Complete     |
-| Green Belt  | Time Series Sales Forecasting     | 🚧 In Progress  |
-| Brown Belt  | Explainable Credit Risk API       | ⬜ To Do        |
-| Black Belt  | Graph AML System                  | ⬜ To Do        |
+| Green Belt  | Time Series Sales Forecasting     | ✅ Complete     |
+| Brown Belt  | Explainable Credit Risk API       | ✅ Complete     |
+| Black Belt  | Graph AML System                  | ✅ Complete     |
 
 ## 3. Linkage to Block Fellowship
 
